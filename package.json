@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EdvardGilz/myNodeApp/issues"
   },
-  "homepage": "https://github.com/EdvardGilz/myNodeApp#readme"
+  "homepage": "https://github.com/EdvardGilz/myNodeApp#readme",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
 }
