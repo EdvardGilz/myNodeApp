@@ -1,0 +1,19 @@
+{
+  "name": "mynodeapp",
+  "version": "1.0.0",
+  "description": "myNodeApp ====",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EdvardGilz/myNodeApp.git"
+  },
+  "author": "EdvardGilz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdvardGilz/myNodeApp/issues"
+  },
+  "homepage": "https://github.com/EdvardGilz/myNodeApp#readme"
+}
